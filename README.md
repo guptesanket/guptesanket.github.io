@@ -8,4 +8,4 @@ At the moment I am working on a whole lot of things. The following are some of t
 and I think there is more. 
 
 
-Also check out my collaborative software/programs/scripts here: [Diamgulles Git](http://git.diamuggles.com)
+Also check out my collaborative software/programs/scripts here: [Diamuggles Git](http://git.diamuggles.com)
